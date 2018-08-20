@@ -46,7 +46,6 @@ $ npm run build
 
 ### To Do
 
-- [ ] Bootstrap & SCSS
-- [ ] Mithril or React
+- [ ] React Version
 - [ ] Add Style Lint
 - [ ] Add ES Lint
